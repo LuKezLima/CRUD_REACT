@@ -6,4 +6,4 @@ This is a project made to practice React skills. It is a responsive register web
 it was made based on a project by Leonardo Moura Leitão.
 </p>
 
-<img href="./home.png" alt="imagem da aplicação"> </img>
+<img src="./home.png" alt="imagem da aplicação"> </img>
